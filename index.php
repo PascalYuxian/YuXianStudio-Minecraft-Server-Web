@@ -133,7 +133,7 @@
               <h2>服务器简介</h2>
               <p>本服属于工业生存服务器，服务端Mod有：沉浸工艺、工业2、红石通量、建筑、林业、暮色森林、热动力学、热力基本、热力膨胀、应用能源2。<hr/>服务器开荒，欢迎大家加入。</p>
 			  <ul class="checked">
-              <li>可设置10个家</li>
+              <li>花费游戏币设置家，可设置无限个</li>
               <li>部分世界开放镭射枪</li>
               <li>随机传送5s冷却</li>
               </ul>
@@ -167,7 +167,9 @@
 				<br><a target="_blank" href="https://cn-gz-yuxstudio-minecraft-1252460563.cos.ap-guangzhou.myqcloud.com/YuXStudio-Client-3.0.4.zip">Tencent GuangZhou</a></br>
                 <!-- 海外用户请<a target="_blank" href="https://mc.yuxstudio.net/download">点击此处</a>获取下载链接 -->
 				</p>
-  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
@@ -177,6 +179,7 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -187,6 +190,18 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7028266694249949"
+     data-ad-slot="9750202754"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 			</div>
 		</div>
 	</div><!-- END fh5co-download -->
@@ -237,48 +252,27 @@
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- [内容]展示 -->
+<!-- [内容]展示2 -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7028266694249949"
-     data-ad-slot="7063717597"
-     data-ad-format="auto"></ins>
+     data-ad-slot="7690597076"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- [内容]文字+展示 -->
+<!-- [内容]文字+展示2 -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7028266694249949"
-     data-ad-slot="8086426742"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- [内容]展示 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7028266694249949"
-     data-ad-slot="7063717597"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- [内容]文字+展示 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7028266694249949"
-     data-ad-slot="8086426742"
-     data-ad-format="auto"></ins>
+     data-ad-slot="7743110229"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
@@ -290,6 +284,13 @@
       <div class="container">
         <div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
           <h2>条款及保障（用户协议）</h2>
+            <p align="left">
+			阅读前，您需要知道：YuXianStudio，YuXStudio，欲仙工作室 均属于同一家工作室，发起人为 PascalYuxian ，目前由 PascalYuxian 和 4378265 运营。</br>
+            当第一人称代词（YuXianStudio，YuXStudio，欲仙工作室，我们，我们的等）在本工作室所有条款及协议，网站中使用，均指由 PascalYuxian 发起的 中文名：欲仙工作室 英文名：YuXianStudio 。
+            同时，您在阅读完本用户协议，还需阅读我们的<a target="_blank" href="https://mc.yuxstudio.net/rule">附加条款</a>。</p>
+            <p align="left">
+			我们仍处于发展阶段，会有许多不足，如果您觉得我们的用户协议或其它方面还有需要改进的地方，请将您的意见，建议通过邮箱发送至 yuxianstudio@gmail.com ，
+			我们非常期望您的来信！</p>
 
 
           <h3>服务条款 TOS</h3>
@@ -305,7 +306,8 @@
                1.2  我们同意，如果我们协议有任何改变，我们将在本协议的顶部更改“最后修改日期”。您同意定期重新访问该网页。您同意注意最后修订本协议的日期。
                   如果“上次修改”日期仍从你最后一次查看本协议时保持不变，那么你可以假定该协定已自上次你查看时它尚未发生变化。如果“上次修改”日期已经改变，那么你可以肯定协议中有关条款已被更改。</br>
                1.3  如果由于我们所做的任何修改，您需要终止服务，必须于上述的“最后修改”日起三十（30）日内通过书面申请形式取消。在任何此类通知的生效日期后继续使用服务，即表示您接受这些修改。</br>
-               1.4  弃权 – 如果您没有定期查看此协议, 您自行承担忽略此协定更改的责任。您拥有随时查看此修订版本的权利。由于您自己忽略查看的原因，YuXianStudio 不负任何责任。</p>
+               1.4  弃权 – 如果您没有定期查看此协议, 您自行承担忽略此协定更改的责任。您拥有随时查看此修订版本的权利。由于您自己忽略查看的原因，YuXianStudio 不负任何责任。</br>
+               1.5  本协议与本站其他协议及条款相互补充，请务必认真查看。由于您自己忽略查看的原因，同样的，YuXianStudio 不负任何责任。</p>
 
 
             <h3>隐私 Privacy</h3>
@@ -335,23 +337,29 @@
                  2.  将您的个人信息以加密和不可朔源的方式提交到欺诈预防数据库以将您的信息进行比对以预防欺诈、滥用和退款。</br>
                  3.  我们可能会使用您的信息用于确认您的身份。</br>
                  4.  有时，我们可能会使用个人信息发送重要通知，例如关于购买的相关信息以及条款、条件和政策的变更。由于这些信息对您与 YuXianStudio 之间的沟通至关重要，您不能拒绝接收此类信息。</br>
-                 5.  我们还会将个人信息用于审计、数据分析和研究等内部目的，以改进 YuXianStudio 的产品、服务和与客户之间的沟通。</p>
+                 5.  我们还会将个人信息用于审计、数据分析和研究等内部目的，以改进 YuXianStudio 的产品、服务和与客户之间的沟通。</br>
                  6.  YuXianStudio 非常重视您的个人信息的安全。我们会通过各种加密技术传输，存储和保护用户信息，尽量保证数据安全，但并不保证这些数据的绝对安全。</p>
               <h4>您需要注意</h4>
                 <p align="left">
                  1.  用户注册（首次登陆）时候需要提供用户名以及密码，并自行保管。用户名及游戏目录下的用户数据为用户的唯一凭证。</br>
                  2.  我们特别提醒您应妥善保管您的帐号和密码。当您使用完毕后，应安全退出。因您保管不善可能导致遭受盗号或密码失窃，责任由您自行承担。</p>
-            
+
 
 			<h3>使用条款 Use Privacy</h3>
 			  <p align="left">
                1.  禁止滥用 YuXianStudio 提供的服务，包括但不限于：压测、DDoS、恶意攻击侵入。</br>
                2.  禁止使用 YuXianStudio 的服务进行非法用途和违禁用途。</br>
-               3.  禁止诽谤，辱骂，骚扰，跟踪，威胁或以其他方式侵犯他人合法权利（如隐私权和公开权）。
+               3.  禁止诽谤，辱骂，骚扰，跟踪，威胁或以其他方式侵犯他人合法权利（如隐私权和公开权）。</br>
                4.  使用任何游戏线路，需遵循游戏线路所属国家的相关法律以及中国法律。</br>
                5.  游戏中未经该领地主人允许，禁止拆该领地主人的家以及附属建筑</br>
                6.  YuXianStudio 会记录玩家所有交互动作，请自觉遵守使用条款</br>
                7.  违反使用条款的用户，我们将会删除违规账户并没收使用 YuXianStudio 服务的权利。</p>
+			  <h4>您需要注意</h4>
+				<p align="left">
+				1.   因不可抗力导致的服务器关闭或存档丢失和游戏财产损失，我们不负任何责任。</br>
+				2.   放置的物体不在领地范围内，被他人破坏，我们不赔偿任何损失。</br>
+				3.   因为更换存档导致的游戏财产损失，我们不负任何责任。</p>
+
         </div>
 	  </div>
     </div>
@@ -362,7 +370,7 @@
 				<div class="col-md-6">
 				交流群：<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=49h2XW1">311963468</a> 
 				</br>
-				<small>Copyright &copy; 2018 PascalYuxian.All rights reserved.
+				<small>Copyright &copy; 2018 PascalYuxian All rights reserved.
                 <a target="_blank" href="https://blog.yuxstudio.net">博客</a>
                 <a > | </a> 
                 <a target="_blank" href="https://yuxstudio.net">大杂烩</a>
