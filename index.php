@@ -131,7 +131,7 @@
           <div class="fh5co-tabs-container">
             <div class="fh5co-tab-content active" data-tab-content="marketing">
               <h2>服务器简介</h2>
-              <p>本服属于工业生存服务器，服务端Mod有：沉浸工艺、工业2、红石通量、建筑、林业、暮色森林、热动力学、热力基本、热力膨胀、应用能源2。<hr/>服务器开荒，欢迎大家加入。</p>
+              <p>本服属于工业生存服务器，服务端Mod有：茶风纪事、沉浸工程、地质探秘、工业2、红石通量、开放式电脑、林业、暮色森林、农业工艺、热动力学、热力基本、热力膨胀、神秘工匠、神秘时代6、应用能源2。<br>服务器开荒，欢迎大家加入。</p>
 			  <ul class="checked">
               <li>花费游戏币设置家，可设置无限个</li>
               <li>部分世界开放镭射枪</li>
@@ -145,10 +145,10 @@
 		
 		<div class="fh5co-2col fh5co-text">
 			<div class="fh5co-grid">
-				<div class="fh5co-grid-item" style="background-image: url(/images/img_3.jpg);"></div>
-				<div class="fh5co-grid-item" style="background-image: url(/images/img_2.jpg);"></div>
-				<div class="fh5co-grid-item" style="background-image: url(/images/img_1.jpg);"></div>
-				<div class="fh5co-grid-item" style="background-image: url(/images/img_4.jpg);"></div>
+				<div class="fh5co-grid-item" style="background-image: url(https://yuxianstudio.github.io/YuXianStudio-Minecraft-Server-Web/images/img_3.jpg);"></div>
+				<div class="fh5co-grid-item" style="background-image: url(https://yuxianstudio.github.io/YuXianStudio-Minecraft-Server-Web/images/img_2.jpg);"></div>
+				<div class="fh5co-grid-item" style="background-image: url(https://yuxianstudio.github.io/YuXianStudio-Minecraft-Server-Web/images/img_1.jpg);"></div>
+				<div class="fh5co-grid-item" style="background-image: url(https://yuxianstudio.github.io/YuXianStudio-Minecraft-Server-Web/images/img_4.jpg);"></div>
 			</div>
 		</div>
 	</div> <!-- END fh5co-about -->
@@ -180,6 +180,93 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+			</div>
+		</div>
+	</div><!-- END fh5co-download -->
+	
+	<div id="fh5co-team" data-section="change-log">
+      <div class="container">
+        <div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
+          <h2>更新日志</h2>
+			<p align="left">
+			[i] 各前缀说明:</br>
+			[i] = 提示 | [!] = 注意<br>
+			[+] = 新增 | [/] = 修改<br>
+			[-] = 移除</p>
+
+			<li>2018-10-3</li>
+			<p align="left">
+			Version:1.12.2<br>
+			Client Version:3.1.1<br>
+			[+]【茶风纪事】TeaStory-3.2.3.930-1.12.2<br>
+			[+]【神秘工匠】thaumictinkerer-1.12.2-5.0-353c71c<br>
+			[+]【神秘时代6】Thaumcraft-1.12.2-6.1.BETA25<br>
+			[+]【饰品栏】Baubles-1.12-1.5.2<br>
+			[/](客户端)OptiFine_1.12.2_HD_U_E2<br>
+			[-]【末影接口】EnderIO-1.12.2-5.0.33</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-gl-1t+x+q+86"
+     data-ad-client="ca-pub-7028266694249949"
+     data-ad-slot="6171363476"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+			<li>2018-9-24</li>
+			<p align="left">
+			Version:1.12.2<br>
+			Client Version:3.1.0<br>
+			[+]【地质探秘】rockhounding_chemistry-1.12.2-3.29<br>
+			[+]【地质探秘】rockhounding_core-1.12.2-3.16<br>
+			[+]【地质探秘】rockhounding_rocks-1.12.2-3.17<br>
+			[+]【开放式电脑】OpenComputers-MC1.12.2-1.7.2.67<br>
+			[+]【末影接口】EnderIO-1.12.2-5.0.33<br>
+			[+]【农业工艺】AgriCraft-2.12.0-1.12.0-a6<br>
+			[/]【CoFH核心】CoFHCore-1.12.2-4.5.3.20-universal<br>
+			[/]【CoFH世界】CoFHWorld-1.12.2-1.2.0.5-universal<br>
+			[/]【沉浸工程】ImmersiveEngineering-0.12-85<br>
+			[/]【工业2】industrialcraft-2-2.8.99-ex112<br>
+			[/]【红石通量】RedstoneFlux-1.12-2.0.2.3-universal<br>
+			[/]【林业】forestry_1.12.2-5.8.1.344<br>
+			[/]【暮色森林】twilightforest-1.12.2-3.8.689-universal<br>
+			[/]【热动力学】ThermalDynamics-1.12.2-2.5.1.14-universal<br>
+			[/]【热力基本】ThermalFoundation-1.12.2-2.5.0.19-universal<br>
+			[/]【热力膨胀】ThermalExpansion-1.12.2-5.5.0.29-universal<br>
+			[/]【应用能源2】appliedenergistics2-rv5-stable-11<br>
+			[/]CodeChickenLib-1.12.2-3.2.2.353-universal<br>
+			[/]jei_1.12.2-4.12.0.216<br>
+			[-]【建筑】buildcraft-7.99.18</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-g3-1s-18-6j+qq"
+     data-ad-client="ca-pub-7028266694249949"
+     data-ad-slot="2250374610"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+			<li>2018-5-20</li>
+			<p align="left">
+			Version:1.12.2<br>
+			Client Version:3.0.4<br>
+			[/]forge-1.12.2-14.23.3.2655-universal</p>
+
+			<li>2018-1-26</li>
+			<p align="left">
+			Version:1.12.2<br>
+			Client Version:3.0.2<br>
+			[+]【沉浸工艺】ImmersiveEngineering-0.12-76<br>
+			[+]【坚定意志】ToughAsNails-1.12.2-3.1.0.73-universal<br>
+			[+]【林业】forestry_1.12.2-5.7.0.218<br>
+			[+]ImmersiveEngineering-0.12-76-core</p>
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -191,91 +278,6 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7028266694249949"
-     data-ad-slot="9750202754"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-			</div>
-		</div>
-	</div><!-- END fh5co-download -->
-	
-	<div id="fh5co-team" data-section="change-log">
-      <div class="container">
-        <div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
-          <h2>更新日志</h2>
-			<p align="left">
-			[i] 各前缀说明:</br>
-			[i] = 提示 | [!] = 注意</br>
-			[+] = 新增 | [/] = 修改</p>
-
-			<li>2018-5-20</li>
-			<p align="left">
-			Version:1.12.2</br>
-			Client Version:3.0.4</br>
-			[/]forge-1.12.2-14.23.3.2655-universal</br></p>
-
-			<li>2018-1-26</li>
-			<p align="left">
-			Version:1.12.2</br>
-			Client Version:3.0.2</br>
-			[+]【沉浸工艺】ImmersiveEngineering-0.12-76</br>
-			[+]【坚定意志】ToughAsNails-1.12.2-3.1.0.73-universal</br>
-			[+]【林业】forestry_1.12.2-5.7.0.218</br>
-			[+]ImmersiveEngineering-0.12-76-core</p>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- [内容]展示 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7028266694249949"
-     data-ad-slot="7063717597"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- [内容]文字+展示 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7028266694249949"
-     data-ad-slot="8086426742"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- [内容]展示2 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7028266694249949"
-     data-ad-slot="7690597076"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- [内容]文字+展示2 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7028266694249949"
-     data-ad-slot="7743110229"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
         </div>
 	  </div>
     </div>
@@ -285,8 +287,8 @@
         <div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
           <h2>条款及保障（用户协议）</h2>
             <p align="left">
-			阅读前，您需要知道：YuXianStudio，YuXStudio，欲仙工作室 均属于同一家工作室，发起人为 PascalYuxian ，目前由 PascalYuxian 和 4378265 运营。</br>
-            当第一人称代词（YuXianStudio，YuXStudio，欲仙工作室，我们，我们的等）在本工作室所有条款及协议，网站中使用，均指由 PascalYuxian 发起的 中文名：欲仙工作室 英文名：YuXianStudio 。
+			阅读前，您需要知道：YuXianStudio，YuXStudio，欲仙工作室 均属于同一家工作室，发起人为 PascalYuxian ，目前由 PascalYuxian 和 4378265 运营。<br>
+            当第一人称代词（YuXianStudio，YuXStudio，欲仙工作室，我们，我们的等）在本工作室所有条款及协议，网站中使用，均指由 PascalYuxian 发起的 中文名：欲仙工作室 英文名：YuXianStudio 
             同时，您在阅读完本用户协议，还需阅读我们的<a target="_blank" href="https://mc.yuxstudio.net/rule">附加条款</a>。</p>
             <p align="left">
 			我们仍处于发展阶段，会有许多不足，如果您觉得我们的用户协议或其它方面还有需要改进的地方，请将您的意见，建议通过邮箱发送至 yuxianstudio@gmail.com ，
@@ -302,19 +304,19 @@
                 同时，YuXianStudio 有义务向用户告知条款的更新，包括但不限于电子邮件通知、网站通知和社交媒体的通知。</p>
               <p align="left">
                1.1  我们可能随时修改本协议。您同意我们保留这样做的权利。您同意我们有单方面这样做的权利。
-                  更新的版本将在发布后立即取代任何以前的版本，除非修订版和之前版本一致，之前的版本不再具备法律效力。本协议的任何第三方修改版本均被视为无效。</br>
+                  更新的版本将在发布后立即取代任何以前的版本，除非修订版和之前版本一致，之前的版本不再具备法律效力。本协议的任何第三方修改版本均被视为无效。<br>
                1.2  我们同意，如果我们协议有任何改变，我们将在本协议的顶部更改“最后修改日期”。您同意定期重新访问该网页。您同意注意最后修订本协议的日期。
                   如果“上次修改”日期仍从你最后一次查看本协议时保持不变，那么你可以假定该协定已自上次你查看时它尚未发生变化。如果“上次修改”日期已经改变，那么你可以肯定协议中有关条款已被更改。</br>
-               1.3  如果由于我们所做的任何修改，您需要终止服务，必须于上述的“最后修改”日起三十（30）日内通过书面申请形式取消。在任何此类通知的生效日期后继续使用服务，即表示您接受这些修改。</br>
-               1.4  弃权 – 如果您没有定期查看此协议, 您自行承担忽略此协定更改的责任。您拥有随时查看此修订版本的权利。由于您自己忽略查看的原因，YuXianStudio 不负任何责任。</br>
+               1.3  如果由于我们所做的任何修改，您需要终止服务，必须于上述的“最后修改”日起三十（30）日内通过书面申请形式取消。在任何此类通知的生效日期后继续使用服务，即表示您接受这些修改。<br>
+               1.4  弃权 – 如果您没有定期查看此协议, 您自行承担忽略此协定更改的责任。您拥有随时查看此修订版本的权利。由于您自己忽略查看的原因，YuXianStudio 不负任何责任。<br>
                1.5  本协议与本站其他协议及条款相互补充，请务必认真查看。由于您自己忽略查看的原因，同样的，YuXianStudio 不负任何责任。</p>
 
 
             <h3>隐私 Privacy</h3>
               <h4>总则</h4>
                 <p align="left">
-                以下内容提到的这个政策适用于 YuXianStudio 和您，YuXianStudio 的用户。</br>
-                该隐私政策描述了我们如何使用您的信息，当您在本站注册、订阅服务、购买产品，或者以其他方式使用我们的在线服务时。本政策不涵盖从其他第三方网站收集到的信息。</br>
+                以下内容提到的这个政策适用于 YuXianStudio 和您，YuXianStudio 的用户。<br>
+                该隐私政策描述了我们如何使用您的信息，当您在本站注册、订阅服务、购买产品，或者以其他方式使用我们的在线服务时。本政策不涵盖从其他第三方网站收集到的信息。<br>
                 YuXianStudio 向您承诺：为确保您个人信息的安全，我们向全体 YuXianStudio 管理人员传达了 YuXianStudio 的隐私和安全准则，并在 YuXianStudio 内部严格执行隐私保护措施。
               <h4>修订策略</h4>
                 <p align="left">
@@ -333,31 +335,31 @@
                   并可能要求订户修改明显的欺诈信息以符合安全性和合规性要求。</p>
               <h4>我们如何保护和使用个人信息</h4>
                 <p align="left">
-                 1.  我们会将个人信息用于以下用途：帮助我们创建、开发、运作和改善 YuXianStudio 服务、内容和广告宣传。</br>
-                 2.  将您的个人信息以加密和不可朔源的方式提交到欺诈预防数据库以将您的信息进行比对以预防欺诈、滥用和退款。</br>
-                 3.  我们可能会使用您的信息用于确认您的身份。</br>
-                 4.  有时，我们可能会使用个人信息发送重要通知，例如关于购买的相关信息以及条款、条件和政策的变更。由于这些信息对您与 YuXianStudio 之间的沟通至关重要，您不能拒绝接收此类信息。</br>
-                 5.  我们还会将个人信息用于审计、数据分析和研究等内部目的，以改进 YuXianStudio 的产品、服务和与客户之间的沟通。</br>
+                 1.  我们会将个人信息用于以下用途：帮助我们创建、开发、运作和改善 YuXianStudio 服务、内容和广告宣传。<br>
+                 2.  将您的个人信息以加密和不可朔源的方式提交到欺诈预防数据库以将您的信息进行比对以预防欺诈、滥用和退款。<br>
+                 3.  我们可能会使用您的信息用于确认您的身份。<br>
+                 4.  有时，我们可能会使用个人信息发送重要通知，例如关于购买的相关信息以及条款、条件和政策的变更。由于这些信息对您与 YuXianStudio 之间的沟通至关重要，您不能拒绝接收此类信息。<br>
+                 5.  我们还会将个人信息用于审计、数据分析和研究等内部目的，以改进 YuXianStudio 的产品、服务和与客户之间的沟通。<br>
                  6.  YuXianStudio 非常重视您的个人信息的安全。我们会通过各种加密技术传输，存储和保护用户信息，尽量保证数据安全，但并不保证这些数据的绝对安全。</p>
               <h4>您需要注意</h4>
                 <p align="left">
-                 1.  用户注册（首次登陆）时候需要提供用户名以及密码，并自行保管。用户名及游戏目录下的用户数据为用户的唯一凭证。</br>
+                 1.  用户注册（首次登陆）时候需要提供用户名以及密码，并自行保管。用户名及游戏目录下的用户数据为用户的唯一凭证。<br>
                  2.  我们特别提醒您应妥善保管您的帐号和密码。当您使用完毕后，应安全退出。因您保管不善可能导致遭受盗号或密码失窃，责任由您自行承担。</p>
 
 
 			<h3>使用条款 Use Privacy</h3>
 			  <p align="left">
-               1.  禁止滥用 YuXianStudio 提供的服务，包括但不限于：压测、DDoS、恶意攻击侵入。</br>
-               2.  禁止使用 YuXianStudio 的服务进行非法用途和违禁用途。</br>
-               3.  禁止诽谤，辱骂，骚扰，跟踪，威胁或以其他方式侵犯他人合法权利（如隐私权和公开权）。</br>
-               4.  使用任何游戏线路，需遵循游戏线路所属国家的相关法律以及中国法律。</br>
-               5.  游戏中未经该领地主人允许，禁止拆该领地主人的家以及附属建筑</br>
-               6.  YuXianStudio 会记录玩家所有交互动作，请自觉遵守使用条款</br>
+               1.  禁止滥用 YuXianStudio 提供的服务，包括但不限于：压测、DDoS、恶意攻击侵入。<br>
+               2.  禁止使用 YuXianStudio 的服务进行非法用途和违禁用途。<br>
+               3.  禁止诽谤，辱骂，骚扰，跟踪，威胁或以其他方式侵犯他人合法权利（如隐私权和公开权）。<br>
+               4.  使用任何游戏线路，需遵循游戏线路所属国家的相关法律以及中国法律。<br>
+               5.  游戏中未经该领地主人允许，禁止拆该领地主人的家以及附属建筑<br>
+               6.  YuXianStudio 会记录玩家所有交互动作，请自觉遵守使用条款<br>
                7.  违反使用条款的用户，我们将会删除违规账户并没收使用 YuXianStudio 服务的权利。</p>
 			  <h4>您需要注意</h4>
 				<p align="left">
-				1.   因不可抗力导致的服务器关闭或存档丢失和游戏财产损失，我们不负任何责任。</br>
-				2.   放置的物体不在领地范围内，被他人破坏，我们不赔偿任何损失。</br>
+				1.   因不可抗力导致的服务器关闭或存档丢失和游戏财产损失，我们不负任何责任。<br>
+				2.   放置的物体不在领地范围内，被他人破坏，我们不赔偿任何损失。<br>
 				3.   因为更换存档导致的游戏财产损失，我们不负任何责任。</p>
 
         </div>
@@ -376,7 +378,7 @@
                 <a target="_blank" href="https://yuxstudio.net">大杂烩</a>
                 <a > | </a> 
 				<a target="_blank" href="https://live.bilibili.com/485267">B站直播间</a>
-				</br> 
+				<br> 
 				<a target="_blank" href="http://ess.khhq.net/mc">彩色名字代码</a>
 				<a > | </a>
 				<a target="_blank" href="http://www.ip111.cn">查询IP</a>
@@ -387,12 +389,12 @@
 				<a > | </a> 
                 <a target="_blank" href="https://uptime.statuscake.com/?TestID=fKaPvtcjrM">线路监控</a>
 				</small>
-				</br>
+				<br>
 				<small>
 				<script type="text/javascript" src="https://api.lwl12.com/hitokoto/main/get?encode=js&charset=utf-8"></script>
 				<div id="lwlhitokoto"><script>lwlhitokoto()</script></div>
 				<span id="span_uptime"></span>
-                </br>
+                <br>
                   <?php
                   //获取用户IP地址
                   function getIP(){
@@ -424,16 +426,6 @@
      style="display:block"
      data-ad-client="ca-pub-7028266694249949"
      data-ad-slot="7063717597"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- [内容]展示2 -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7028266694249949"
-     data-ad-slot="7690597076"
      data-ad-format="auto"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
