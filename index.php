@@ -158,13 +158,12 @@
 			<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
                 <h2>客户端 下载：</h2>
 
-                YuXStudio-Client-3.0.4（MineCraft Version:1.12.2)
+                YuXStudio-Client-3.1.1（MineCraft Version:1.12.2)
                  <p align="left">
-                 MD5：e2a0ada0eb4e0f459cf27fe5c68ada10</br>
-                 SHA1：80037d27d9d162deca9c9c18cc5e9c1cd09d669c</br>
-                 SHA256：7308cad40435242e3c33f45c94821ac8092b2e0fbfebd6514e0d0b4d7030b0d0
-				<!--<a target="_blank" href="">Tencent ShangHai</a></br>-->
-				<br><a target="_blank" href="https://cn-gz-yuxstudio-minecraft-1252460563.cos.ap-guangzhou.myqcloud.com/YuXStudio-Client-3.0.4.zip">Tencent GuangZhou</a></br>
+                 MD5：aea56d385e8a452d9fc8528d994b0bb7
+                 <br>SHA1：310a460ea692462f646042a815f1262bd4cd35a7
+                 <br>SHA256：10f6041361235c760f73ae73c4f68ca6f87e1d28a4cbbd7d9fecae4afc6ed279
+		<br><a target="_blank" href="https://cn-gz-yuxstudio-minecraft-1252460563.cos.ap-guangzhou.myqcloud.com/YuXStudio-Client-3.1.1.7z">Tencent GuangZhou</a></br>
                 <!-- 海外用户请<a target="_blank" href="https://mc.yuxstudio.net/download">点击此处</a>获取下载链接 -->
 				</p>
 
@@ -435,7 +434,6 @@
 				<div class="col-md-6">
 					<ul class="fh5co-social">
                       <li><a href="https://twitter.com/PascalYuxian"><i class="icon-twitter"></i></a></li>
-                      <li><a href="https://plus.google.com/104488119699978447524"><i class="icon-google-plus"></i></a></li>
                       <li><a href="https://weibo.com/PascalYuxian"><i class="icon-weibo"></i></a></li>
                       <li><a href="https://github.com/PascalYuxian"><i class="icon-github"></i></a></li>
                       <li><a href="https://www.youtube.com/channel/UCDlWGlVr-iwuVqs8G4iLLug"><i class="icon-youtube"></i></a></li>
