@@ -35,16 +35,6 @@
 <title>YuXStudio's Minecraft Server</title>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111674949-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-111674949-1');
-</script>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113585414-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -52,6 +42,26 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-113585414-1');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113585414-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-113585414-3');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111674949-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111674949-1');
 </script>
 
 <link href="/favicon.ico" rel="shortcut icon" />
@@ -374,7 +384,7 @@
 				<small>Copyright &copy; 2018 PascalYuxian All rights reserved.
                 <a target="_blank" href="https://blog.yuxstudio.net">博客</a>
                 <a > | </a> 
-                <a target="_blank" href="https://yuxstudio.net">大杂烩</a>
+                <a target="_blank" href="https://news.yuxianstudio.com">快讯</a>
                 <a > | </a> 
 				<a target="_blank" href="https://live.bilibili.com/485267">B站直播间</a>
 				<br> 
