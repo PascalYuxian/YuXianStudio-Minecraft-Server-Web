@@ -32,7 +32,7 @@
 <head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>YuXStudio's Minecraft Server</title>
+<title>YuXianStudio Minecraft Server - 欲仙工作室我的世界服务器</title>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-113585414-1"></script>
@@ -113,8 +113,8 @@
 			<div class="col-md-6">
 				<div class="js-fullheight-home fh5co-copy">
 					<div class="js-fullheight-home fh5co-copy-inner">
-						<h1>欢迎来到YuXStudio的我的世界服务器</h1>
-						<h2>Welcome to YuXStudio's Minecraft Server</h2>
+						<h1>欢迎来到YuXianStudio我的世界服务器</h1>
+						<h2>Welcome to YuXianStudio Minecraft Server</h2>
 					</div>
 				</div>
 			</div>
@@ -463,7 +463,7 @@
 <div class="gototop js-top">
 	<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
 </div>
-<!-- YuXStudio JS -->
+<!-- YuXianStudio JS -->
 <script src="/js/Custom-uptime.js"></script>
 <script src="/js/Custom-changetittle.js"></script>
 <!-- jQuery -->
