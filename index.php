@@ -113,7 +113,7 @@
 			<div class="col-md-6">
 				<div class="js-fullheight-home fh5co-copy">
 					<div class="js-fullheight-home fh5co-copy-inner">
-						<h1>欢迎来到YuXianStudio我的世界服务器</h1>
+						<h1 style="width: 600px;">欢迎来到YuXianStudio我的世界服务器</h1>
 						<h2>Welcome to YuXianStudio Minecraft Server</h2>
 					</div>
 				</div>
