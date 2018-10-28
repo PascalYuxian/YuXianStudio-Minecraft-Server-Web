@@ -13,7 +13,7 @@ hrsold=setzero(Math.floor(e_hrsold));
 e_minsold=(e_hrsold-hrsold)*60;
 minsold=setzero(Math.floor((e_hrsold-hrsold)*60));
 seconds=setzero(Math.floor((e_minsold-minsold)*60));
-span_uptime.innerHTML="已运行"+daysold+"天"+hrsold+"小时"+minsold+"分"+seconds+"秒";
+span_uptime.innerHTML="极不稳定的运行了"+daysold+"天"+hrsold+"小时"+minsold+"分"+seconds+"秒";
 }
 function setzero(i){
 if (i<10)
