@@ -1,6 +1,6 @@
 function show_date_time(){
 window.setTimeout("show_date_time()", 1000);
-BirthDay=new Date("1/1/2015 00:00:00");//月，日，年，小时，分钟，秒
+BirthDay=new Date("2017-07-01");//月，日，年，小时，分钟，秒
 today=new Date();
 timeold=(today.getTime()-BirthDay.getTime());
 sectimeold=timeold/1000
