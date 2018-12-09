@@ -25,6 +25,8 @@
 
 -->
 
+
+
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
@@ -66,8 +68,8 @@
 
 <link href="/favicon.ico" rel="shortcut icon" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="" />
-<meta name="keywords" content="" />
+<meta name="description" content="一个真正免费，简单的我的世界服务器" />
+<meta name="keywords" content="我的世界,MineCraft,服务器,欲仙,欲仙工作室,YuXianStudio,YuXStudio,server" />
 <meta name="author" content="PascalYuxian" />
 
 <!-- Facebook and Twitter integration -->
@@ -82,17 +84,17 @@
 <meta name="twitter:card" content="" />
 
 <!-- Animate.css -->
-<link rel="stylesheet" href="/css/animate.css">
+<link rel="stylesheet" href="css/animate.css">
 <!-- Icomoon Icon Fonts-->
-<link rel="stylesheet" href="/css/icomoon.css">
+<link rel="stylesheet" href="css/icomoon.css">
 <!-- Simple Line Icons -->
-<link rel="stylesheet" href="/css/simple-line-icons.css">
+<link rel="stylesheet" href="css/simple-line-icons.css">
 <!-- Magnific Popup -->
-<link rel="stylesheet" href="/css/magnific-popup.css">
+<link rel="stylesheet" href="css/magnific-popup.css">
 <!-- Bootstrap  -->
-<link rel="stylesheet" href="/css/bootstrap.css">
+<link rel="stylesheet" href="css/bootstrap.css">
 <!-- Theme style -->
-<link rel="stylesheet" href="/css/style.css">
+<link rel="stylesheet" href="css/style.css">
 
 <!-- Modernizr JS -->
 <!-- FOR IE9 below -->
@@ -113,13 +115,17 @@
 			<div class="col-md-6">
 				<div class="js-fullheight-home fh5co-copy">
 					<div class="js-fullheight-home fh5co-copy-inner">
-						<h1 style="width: 600px;">欢迎来到YuXianStudio我的世界服务器</h1>
-						<h2>Welcome to YuXianStudio Minecraft Server</h2>
+                      <h1 style="width: 600px;">欢迎来到YuXianStudio我的世界服务器</h1>
+                      <h2>Welcome to YuXianStudio Minecraft Server</h2>
 					</div>
 				</div>
 			</div>
 		</div>
 	</div>
+	<script src="js/bganimation.js"></script>
+	<script>
+		bgainm.start();
+	</script>
 
 	<div class="js-sticky">
 		<div class="fh5co-main-nav">
@@ -141,11 +147,11 @@
           <div class="fh5co-tabs-container">
             <div class="fh5co-tab-content active" data-tab-content="marketing">
               <h2>服务器简介</h2>
-              <p>本服属于工业生存服务器，服务端Mod有：茶风纪事、沉浸工程、地质探秘、工业2、红石通量、开放式电脑、林业、暮色森林、农业工艺、热动力学、热力基本、热力膨胀、神秘工匠、神秘时代6、应用能源2。<br>服务器开荒，欢迎大家加入。</p>
+              <p>本服属于生存服务器，服务端Mod有：茶风纪事、沉浸工程、地质探秘、工业2、红石通量、开放式电脑、林业、暮色森林、农业工艺、热动力学、热力基本、热力膨胀、神秘工匠、神秘时代6、应用能源2。<br>服务器开荒，欢迎大家加入。</p>
 			  <ul class="checked">
               <li>花费游戏币设置家，可设置无限个</li>
               <li>部分世界开放镭射枪</li>
-              <li>随机传送5s冷却</li>
+              <li>随机传送10s冷却</li>
               </ul>
             </div>
           </div>
@@ -155,10 +161,10 @@
 		
 		<div class="fh5co-2col fh5co-text">
 			<div class="fh5co-grid">
-				<div class="fh5co-grid-item" style="background-image: url(https://yuxianstudio.github.io/YuXianStudio-Minecraft-Server-Web/images/img_3.jpg);"></div>
-				<div class="fh5co-grid-item" style="background-image: url(https://yuxianstudio.github.io/YuXianStudio-Minecraft-Server-Web/images/img_2.jpg);"></div>
-				<div class="fh5co-grid-item" style="background-image: url(https://yuxianstudio.github.io/YuXianStudio-Minecraft-Server-Web/images/img_1.jpg);"></div>
-				<div class="fh5co-grid-item" style="background-image: url(https://yuxianstudio.github.io/YuXianStudio-Minecraft-Server-Web/images/img_4.jpg);"></div>
+				<div class="fh5co-grid-item" style="background-image: url(images/img_3.jpg);"></div>
+				<div class="fh5co-grid-item" style="background-image: url(images/img_2.jpg);"></div>
+				<div class="fh5co-grid-item" style="background-image: url(images/img_1.jpg);"></div>
+				<div class="fh5co-grid-item" style="background-image: url(images/img_4.jpg);"></div>
 			</div>
 		</div>
 	</div> <!-- END fh5co-about -->
@@ -168,12 +174,14 @@
 			<div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
                 <h2>客户端 下载：</h2>
 
-                YuXStudio-Client-3.1.1（MineCraft Version:1.12.2)
+                YuXStudio-Client-3.1.3（MineCraft Version:1.12.2)
                  <p align="left">
-                 MD5：aea56d385e8a452d9fc8528d994b0bb7
-                 <br>SHA1：310a460ea692462f646042a815f1262bd4cd35a7
-                 <br>SHA256：10f6041361235c760f73ae73c4f68ca6f87e1d28a4cbbd7d9fecae4afc6ed279
-		<br><a target="_blank" href="https://cn-gz-yuxstudio-minecraft-1252460563.cos.ap-guangzhou.myqcloud.com/YuXStudio-Client-3.1.1.7z">Tencent GuangZhou</a></br>
+                 MD5：66ae6978e10a123e6bbb52341cc9310a
+                 <br>SHA1：7ba57e5e7e57b13d9817d2c63764b98f89dfb1c8
+                 <br>SHA256：3a2e048d26c1f9b60f5e8382b2916f1f9787cb53bab57e3102f2dd0da0694ff5
+                 <br>SHA384:4c8e4ac73feb3e0886cfc8d71fcdf05a91b7502b02532e87113b58bf7e2a4c2a1936f07ba0e9f25a59a135f5b644a9da
+                 <br>SHA512:695a3fe442a69861715793ce14ae2eeee3be9582cf8bf3cc85f0983dec003afa6e8decbd11a4e79815e924522a2773cf8ebbe61a8ee583d4dafe0f8201fb1ef7
+				<br><a target="_blank" href="https://cn-gz-yuxstudio-minecraft-1252460563.cos.ap-guangzhou.myqcloud.com/YuXStudio-Client-3.1.3.7z">Tencent GuangZhou</a></br>
                 <!-- 海外用户请<a target="_blank" href="https://mc.yuxstudio.net/download">点击此处</a>获取下载链接 -->
 				</p>
 
@@ -203,6 +211,16 @@
 			[+] = 新增 | [/] = 修改<br>
 			[-] = 移除</p>
 
+			<li>2018-12-9</li>
+			<p align="left">
+			Version:1.12.2<br>
+			Client Version:3.1.3<br>
+      		[/]1.12.2-forge1.12.2-14.23.5.2768<br>
+            [/]【沉浸工程】ImmersiveEngineering-0.12-86<br>
+            [/]【开放式电脑】OpenComputers-MC1.12.2-1.7.3.146<br>
+            [/]【神秘时代6】Thaumcraft-1.12.2-6.1.BETA26<br>
+              
+              
 			<li>2018-10-3</li>
 			<p align="left">
 			Version:1.12.2<br>
@@ -381,7 +399,7 @@
 				<div class="col-md-6">
 				交流群：<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=49h2XW1">311963468</a> 
 				</br>
-				<small>Copyright &copy; 2018 PascalYuxian All rights reserved.
+				<small>Copyright &copy; 2018 YuxianStudio Co.,Ltd. All rights reserved.
                 <a target="_blank" href="https://blog.yuxstudio.net">博客</a>
                 <a > | </a> 
                 <a target="_blank" href="https://news.yuxianstudio.com">快讯</a>
@@ -439,6 +457,7 @@
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
 				</div>
 
 				<div class="col-md-6">
@@ -464,23 +483,23 @@
 	<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
 </div>
 <!-- YuXianStudio JS -->
-<script src="/js/Custom-uptime.js"></script>
-<script src="/js/Custom-changetittle.js"></script>
+<script src="js/Custom-uptime.js"></script>
+<script src="js/Custom-changetittle.js"></script>
 <!-- jQuery -->
-<script src="/js/jquery.min.js"></script>
+<script src="js/jquery.min.js"></script>
 <!-- jQuery Easing -->
-<script src="/js/jquery.easing.1.3.js"></script>
+<script src="js/jquery.easing.1.3.js"></script>
 <!-- Bootstrap -->
-<script src="/js/bootstrap.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
 <!-- Waypoints -->
-<script src="/js/jquery.waypoints.min.js"></script>
+<script src="js/jquery.waypoints.min.js"></script>
 <!-- Stellar Parallax -->
-<script src="/js/jquery.stellar.min.js"></script>
+<script src="js/jquery.stellar.min.js"></script>
 <!-- Magnific Popup -->
-<script src="/js/jquery.magnific-popup.min.js"></script>
-<script src="/js/magnific-popup-options.js"></script>
+<script src="js/jquery.magnific-popup.min.js"></script>
+<script src="js/magnific-popup-options.js"></script>
 <!-- Main JS -->
-<script src="/js/main.js"></script>
+<script src="js/main.js"></script>
 
 </body>
 </html>
