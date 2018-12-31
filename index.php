@@ -26,7 +26,6 @@
 -->
 
 
-
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
@@ -44,16 +43,6 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-113585414-1');
-</script>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113585414-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-113585414-3');
 </script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -105,12 +94,12 @@
 </head>
 <body>
 
-<!-- Loader -->
+<!-- Loader style="background-image: url(images/hero_bg.jpg);"-->
 <div class="fh5co-loader"></div>
 <div class="fh5co-page">
 
 <div id="fh5co-container">
-	<div id="fh5co-home" class="js-fullheight-home" data-section="home" style="background-image: url(images/hero_bg.jpg);" data-stellar-background-ratio="0.5">
+	<div id="fh5co-home" class="js-fullheight-home" data-section="home"  data-stellar-background-ratio="0.5">
 		<div class="container">
 			<div class="col-md-6">
 				<div class="js-fullheight-home fh5co-copy">
@@ -133,9 +122,9 @@
 				<div class="fh5co-menu-1">
 					<a href="#" data-nav-section="home">首页</a>
 					<a href="#" data-nav-section="mission">简介</a>
-					<a href="//mc.yuxstudio.net/download" data-nav-section="download">下载</a>
+					<a href="#" data-nav-section="download">下载</a>
 					<a href="#" data-nav-section="change-log">更新日志</a>
-                  <a href="#" data-nav-section="terms of service">条款及保障</a>
+                    <a href="#" data-nav-section="terms of service">条款及保障</a>
 				</div>
 			</div>
 		</div>
@@ -179,9 +168,8 @@
                  MD5：66ae6978e10a123e6bbb52341cc9310a
                  <br>SHA1：7ba57e5e7e57b13d9817d2c63764b98f89dfb1c8
                  <br>SHA256：3a2e048d26c1f9b60f5e8382b2916f1f9787cb53bab57e3102f2dd0da0694ff5
-                 <br>SHA384:4c8e4ac73feb3e0886cfc8d71fcdf05a91b7502b02532e87113b58bf7e2a4c2a1936f07ba0e9f25a59a135f5b644a9da
                  <br>SHA512:695a3fe442a69861715793ce14ae2eeee3be9582cf8bf3cc85f0983dec003afa6e8decbd11a4e79815e924522a2773cf8ebbe61a8ee583d4dafe0f8201fb1ef7
-				<br><a target="_blank" href="https://cn-gz-yuxstudio-minecraft-1252460563.cos.ap-guangzhou.myqcloud.com/YuXStudio-Client-3.1.3.7z">Tencent GuangZhou</a></br>
+				<br><a target="_blank" href="https://cn-gz-yuxstudio-minecraft-1252460563.cos.ap-guangzhou.myqcloud.com/YuXStudio-Client-3.1.3.7z">Tencent GuangZhou</a><br>
                 <!-- 海外用户请<a target="_blank" href="https://mc.yuxstudio.net/download">点击此处</a>获取下载链接 -->
 				</p>
 
@@ -206,7 +194,7 @@
         <div class="col-md-6 col-md-offset-3 text-center fh5co-heading">
           <h2>更新日志</h2>
 			<p align="left">
-			[i] 各前缀说明:</br>
+			[i] 各前缀说明:<br>
 			[i] = 提示 | [!] = 注意<br>
 			[+] = 新增 | [/] = 修改<br>
 			[-] = 移除</p>
@@ -316,7 +304,8 @@
             <p align="left">
 			阅读前，您需要知道：YuXianStudio，YuXStudio，欲仙工作室 均属于同一家工作室，发起人为 PascalYuxian ，目前由 PascalYuxian 和 4378265 运营。<br>
             当第一人称代词（YuXianStudio，YuXStudio，欲仙工作室，我们，我们的等）在本工作室所有条款及协议，网站中使用，均指由 PascalYuxian 发起的 中文名：欲仙工作室 英文名：YuXianStudio 
-            同时，您在阅读完本用户协议，还需阅读我们的<a target="_blank" href="https://mc.yuxstudio.net/rule">附加条款</a>。</p>
+            同时，您在阅读完本用户协议，还需阅读我们的<a target="_blank" href="https://mc.yuxianstudio.com/policies/rule">附加条款</a>。<br>
+            由于本服务器使用了Google的服务，您还需要阅读<a target="_blank" href="https://policies.google.com/terms?hl=zh-CN">Google 服务条款</a>，<a target="_blank" href="https://policies.google.com/privacy?hl=zh-CN">隐私权政策</a>。</p>
             <p align="left">
 			我们仍处于发展阶段，会有许多不足，如果您觉得我们的用户协议或其它方面还有需要改进的地方，请将您的意见，建议通过邮箱发送至 yuxianstudio@gmail.com ，
 			我们非常期望您的来信！</p>
@@ -398,14 +387,17 @@
 			<div class="row">
 				<div class="col-md-6">
 				交流群：<a target="_blank" href="https://jq.qq.com/?_wv=1027&k=49h2XW1">311963468</a> 
-				</br>
-				<small>Copyright &copy; 2018 YuxianStudio Co.,Ltd. All rights reserved.
+				<br>
+				<small>Copyright &copy; 2018 YuXianStudio Co.,Ltd. All rights reserved.
+                <br>
+                  This is an open source website, available at <a target="_blank" href="https://github.com/YuXianStudio/YuXianStudio-Minecraft-Server-Web">Github</a>
+                <br>
                 <a target="_blank" href="https://blog.yuxstudio.net">博客</a>
                 <a > | </a> 
                 <a target="_blank" href="https://news.yuxianstudio.com">快讯</a>
                 <a > | </a> 
-				<a target="_blank" href="https://live.bilibili.com/485267">B站直播间</a>
-				<br> 
+				<a target="_blank" href="https://live.bilibili.com/485267">直播间</a>
+				<a > | </a>
 				<a target="_blank" href="http://ess.khhq.net/mc">彩色名字代码</a>
 				<a > | </a>
 				<a target="_blank" href="http://www.ip111.cn">查询IP</a>
@@ -418,8 +410,6 @@
 				</small>
 				<br>
 				<small>
-				<script type="text/javascript" src="https://api.lwl12.com/hitokoto/main/get?encode=js&charset=utf-8"></script>
-				<div id="lwlhitokoto"><script>lwlhitokoto()</script></div>
 				<span id="span_uptime"></span>
                 <br>
                   <?php
@@ -447,6 +437,7 @@
                   echo "你的IP是".$ip;
                   ?>
 				</small>
+<a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=C83ek5XBDG&Days=1&Design=1" /></a>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- [内容]展示 -->
 <ins class="adsbygoogle"
@@ -466,8 +457,7 @@
                       <li><a href="https://weibo.com/PascalYuxian"><i class="icon-weibo"></i></a></li>
                       <li><a href="https://github.com/PascalYuxian"><i class="icon-github"></i></a></li>
                       <li><a href="https://www.youtube.com/channel/UCDlWGlVr-iwuVqs8G4iLLug"><i class="icon-youtube"></i></a></li>
-                      <li><a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=343685355&website=mc.yuxstudio.net"><i class="icon-qq"></i></a></li>
-                      <li><a href=""><i class="icon-"></i></a></li>
+                      <li><a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=343685355&website=mc.yuxianstudio.com"><i class="icon-qq"></i></a></li>
 					</ul>
 				</div>
 			</div>
@@ -475,9 +465,7 @@
 	</div>
 
 
-</div>
 
-</div>
 
 <div class="gototop js-top">
 	<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
